@@ -1,0 +1,15 @@
+
+.instruction {
+    color: blue;
+}
+
+.warning {
+    color: rgb(255, 0, 0);
+    min-height: 30px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.spacer {
+    min-height: 20px;
+}
